@@ -1,5 +1,6 @@
+
 # Specifically, your analysis should include:
-# (1)descriptive statistics (means and standard deviations) for all combinations of Posture × Sex;
+# (1)descriptive statistics (means and standard deviations) for all combinations of Posture ï¿½ Sex;
 # (2) an omnibus (overall) ANOVA taking into account the study design; and
 # (3) appropriate Holm-corrected post hoc pairwise comparisons.
 
