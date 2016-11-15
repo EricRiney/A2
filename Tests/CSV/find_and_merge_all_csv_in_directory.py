@@ -46,7 +46,7 @@ for counter, csvFilename in enumerate(glob.glob("[!bigData]*.csv")):
 	csvFileObj.close()
 
 # write out the big csv file
-csvFileObj = open("bigData.csv", 'w', newline='')
+csvFileObj = open("bigData.csv", 'w')
 csvWriter = csv.writer(csvFileObj)
 for row in csvRows:
 	csvWriter.writerow(row)
